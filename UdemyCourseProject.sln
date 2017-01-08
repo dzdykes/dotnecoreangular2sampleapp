@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{19A9FF53-9989-4A2B-A656-1BD3883A3C74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BC37A488-27DE-433E-BA0F-062634F1A7E6}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "UdemyCourseProject", "src\UdemyCourseProject\UdemyCourseProject.xproj", "{CCED3D26-72FD-4F0B-A130-0104240F9FE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCED3D26-72FD-4F0B-A130-0104240F9FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCED3D26-72FD-4F0B-A130-0104240F9FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCED3D26-72FD-4F0B-A130-0104240F9FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCED3D26-72FD-4F0B-A130-0104240F9FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CCED3D26-72FD-4F0B-A130-0104240F9FE5} = {19A9FF53-9989-4A2B-A656-1BD3883A3C74}
+	EndGlobalSection
+EndGlobal
